@@ -1,0 +1,11 @@
+[Protocol]
+exec=testcoin-qt '%u'
+protocol=testcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
